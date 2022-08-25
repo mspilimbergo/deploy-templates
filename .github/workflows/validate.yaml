@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Validate YAML files
-        run: yamllint relaxed .
+        run: yamllint -d relaxed .
