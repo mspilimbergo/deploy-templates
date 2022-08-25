@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "banner": "",
+  "title": {
+    "name": "Akash Games",
+    "description": "Chose between different games in our Awesome Akash GitHub repository and enjoy easy deployment in just few seconds",
+    "logo": "https://avatars.githubusercontent.com/u/4899835?s=200&v=4"
+  },
+  "referenceLinks": {
+    "webpage": "",
+    "docs": "",
+    "sdlRepo": "test"
+  },
+  "promotion": {
+    "title": "Akash Games",
+    "image": "https://avatars.githubusercontent.com/u/4899835?s=200&v=4",
+    "description": "Chose between different games in our Awesome Akash GitHub repository and enjoy easy deployment in just few seconds"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "id": "",
+        "title": "Memory Game",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/ovrclk/awesome-akash/master/MemoryGame/deploy.yaml"
+      }
+    ],
+    "social": {
+      "twitter": "",
+      "discord": "",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": "",
+      "youtube": "",
+      "reddit": "",
+      "medium": ""
+    }
+  },
+  "headline": {
+    "title": "",
+    "description": ""
+  },
+  "video": ""
+}
