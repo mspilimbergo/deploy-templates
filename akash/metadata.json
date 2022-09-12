@@ -1,0 +1,44 @@
+{
+  "banner": "",
+  "title": {
+    "name": "Akash Network",
+    "description": "Akash Network, the world’s first decentralized and open-source cloud, accelerates deployment, scale, efficiency and price performance for high-growth industries like blockchain and machine learning/AI.",
+    "logo": "https://avatars.githubusercontent.com/u/4899835?s=200&v=4"
+  },
+  "referenceLinks": {
+    "webpage": "https://akash.network/",
+    "docs": "https://docs.akash.network/",
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/akash"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "Validator Node",
+        "description": "Deploys a Validator Node for the Akash Network blockchain",
+        "url": "https://github.com/ovrclk/cosmos-omnibus/blob/master/_examples/validator-and-public-sentries/validator-deploy.yml"
+      },
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Akash Network blockchain",
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/_examples/load-balanced-rpc-nodes/node_deploy.yml"
+      },
+      {
+        "title": "Sentry Node",
+        "description": "Deploys a Sentry Node for the Akash Network Blockchain",
+        "url": "https://github.com/ovrclk/cosmos-omnibus/blob/master/_examples/validator-and-public-sentries/sentries-deploy.yml"
+      }
+    ],
+    "social": {
+      "twitter": "https://twitter.com/akashnet_",
+      "discord": "https://discord.com/invite/akash",
+      "linkedin": "https://www.linkedin.com/company/akash-network/mycompany/",
+      "facebook":"",
+      "discourse": "https://forum.akash.network/",
+      "telegram": "https://t.me/AkashNW",
+      "youtube": "https://www.youtube.com/akashnetwork",
+      "reddit": "https://www.reddit.com/r/akashnetwork/",
+      "medium": "",
+      "discourse": "https://forum.akash.network/"
+    }
+  }
+}
