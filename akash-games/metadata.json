@@ -1,0 +1,27 @@
+{
+  "bannerColor": "",
+  "title": {
+    "name": "Fun & Games",
+    "description": "Some fun games that you can experiment with",
+    "logo": "https://avatars.githubusercontent.com/u/4899835?s=200&v=4"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "Minesweeper",
+        "description": "Clone of one of the most popular classic game fully written on react.js",
+        "url": "https://raw.githubusercontent.com/ovrclk/awesome-akash/master/minesweeper/deploy.yaml"
+      },
+      {
+        "title": "Tetris",
+        "description": "A simple javascript tetris game",
+        "url": "https://raw.githubusercontent.com/ovrclk/awesome-akash/master/tetris/deploy.yaml"
+      },
+      {
+        "title": "Memory Game",
+        "description": "A simple game to keep your memory sharp",
+        "url": "https://raw.githubusercontent.com/ovrclk/awesome-akash/master/MemoryGame/deploy.yaml"
+      }
+    ]
+  }
+}
