@@ -15,7 +15,7 @@
       {
         "title": "Validator Node",
         "description": "Deploys a Validator Node for the Akash Network blockchain",
-        "url": "https://github.com/ovrclk/cosmos-omnibus/blob/master/_examples/validator-and-public-sentries/validator-deploy.yml"
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/_examples/validator-and-public-sentries/validator-deploy.yml"
       },
       {
         "title": "RPC Node",
@@ -25,7 +25,7 @@
       {
         "title": "Sentry Node",
         "description": "Deploys a Sentry Node for the Akash Network Blockchain",
-        "url": "https://github.com/ovrclk/cosmos-omnibus/blob/master/_examples/validator-and-public-sentries/sentries-deploy.yml"
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/_examples/validator-and-public-sentries/sentries-deploy.yml"
       }
     ],
     "social": {
