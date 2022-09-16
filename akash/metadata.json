@@ -20,7 +20,7 @@
       {
         "title": "RPC Node",
         "description": "Deploys an RPC Node for the Akash Network blockchain",
-        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/_examples/load-balanced-rpc-nodes/node_deploy.yml"
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/akash/deploy.yml"
       },
       {
         "title": "Sentry Node",
