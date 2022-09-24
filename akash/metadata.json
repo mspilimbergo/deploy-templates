@@ -1,5 +1,5 @@
 {
-  "banner": "",
+  "bannerColor": "#FA5757",
   "title": {
     "name": "Akash Network",
     "description": "Akash Network, the world’s first decentralized and open-source cloud, accelerates deployment, scale, efficiency and price performance for high-growth industries like blockchain and machine learning/AI.",
@@ -15,17 +15,17 @@
       {
         "title": "Validator Node",
         "description": "Deploys a Validator Node for the Akash Network blockchain",
-        "url": "https://github.com/ovrclk/cosmos-omnibus/blob/master/_examples/validator-and-public-sentries/validator-deploy.yml"
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/_examples/validator-and-public-sentries/validator-deploy.yml"
       },
       {
         "title": "RPC Node",
         "description": "Deploys an RPC Node for the Akash Network blockchain",
-        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/_examples/load-balanced-rpc-nodes/node_deploy.yml"
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/akash/deploy.yml"
       },
       {
         "title": "Sentry Node",
         "description": "Deploys a Sentry Node for the Akash Network Blockchain",
-        "url": "https://github.com/ovrclk/cosmos-omnibus/blob/master/_examples/validator-and-public-sentries/sentries-deploy.yml"
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/_examples/validator-and-public-sentries/sentries-deploy.yml"
       }
     ],
     "social": {
