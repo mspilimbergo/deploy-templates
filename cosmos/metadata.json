@@ -1,0 +1,22 @@
+{
+  "banner": "",
+  "title": {
+    "name": "Cosmos Hub",
+    "description": "The Cosmos Hub is the first of thousands of interconnected blockchains that will eventually comprise the Cosmos Network.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://cosmos.network/",
+    "docs": "https://hub.cosmos.network/main/hub-overview/overview.html",
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/cosmoshub"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Cosmos Hub Network",
+        "url": "https://github.com/ovrclk/cosmos-omnibus/blob/master/cosmoshub/deploy.yml"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "banner": "",
+  "title": {
+    "name": "Bostrom",
+    "description": "A Proof-of-Stake chain utilizing Hardened JavaScript smart contracts to rapidly build and deploy DeFi.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://cyb.ai/",
+    "docs": "https://cyb.ai/help",
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/bostrom"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Bostrom blockchain",
+        "url": "https://github.com/ovrclk/cosmos-omnibus/blob/master/bostrom/deploy.yml"
+      }
+    ]
+  }
+}
