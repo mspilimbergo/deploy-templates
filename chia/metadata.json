@@ -1,0 +1,32 @@
+{
+  "banner": "",
+  "title": {
+    "name": "Chia Network",
+    "description": "Chia Network is building a better blockchain and smart transaction platform which is more secure, more sustainable, and more powerful.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.chia.net/",
+    "docs": "https://docs.chia.net/",
+    "sdlRepo": "https://github.com/ovrclk/awesome-akash/tree/master/chia-bladebit"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "Bladebit",
+        "description": "Runs a Chia Bladebit plotter",
+        "url": "https://github.com/ovrclk/awesome-akash/blob/master/chia-bladebit/deploy.yaml"
+      },
+      {
+        "title": "Madmax",
+        "description": "Runs a Chia Madmax plotter",
+        "url": "https://github.com/ovrclk/awesome-akash/tree/master/chia-madmax"
+      },
+      {
+        "title": "Bladebit-disk",
+        "description": "Runs a Chia Bladebit-disk plotter",
+        "url": "https://github.com/ovrclk/awesome-akash/tree/master/chia-bladebit-disk"
+      }
+    ]
+  }
+}
