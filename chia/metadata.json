@@ -15,17 +15,17 @@
       {
         "title": "Bladebit",
         "description": "Runs a Chia Bladebit plotter",
-        "url": "https://github.com/ovrclk/awesome-akash/blob/master/chia-bladebit/deploy.yaml"
+        "url": "https://raw.githubusercontent.com/ovrclk/awesome-akash/master/chia-bladebit/deploy.yaml"
       },
       {
         "title": "Madmax",
         "description": "Runs a Chia Madmax plotter",
-        "url": "https://github.com/ovrclk/awesome-akash/tree/master/chia-madmax"
+        "url": "https://raw.githubusercontent.com/ovrclk/awesome-akash/master/chia-madmax/deploy.yaml"
       },
       {
         "title": "Bladebit-disk",
         "description": "Runs a Chia Bladebit-disk plotter",
-        "url": "https://github.com/ovrclk/awesome-akash/tree/master/chia-bladebit-disk"
+        "url": "https://raw.githubusercontent.com/ovrclk/awesome-akash/master/chia-bladebit-disk/deploy.yaml"
       }
     ]
   }
