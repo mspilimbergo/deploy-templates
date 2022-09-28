@@ -15,7 +15,7 @@
       {
         "title": "RPC Node",
         "description": "Deploys an RPC Node for the Agoric blockchain",
-        "url": "https://github.com/ovrclk/cosmos-omnibus/blob/master/agoric/deploy.yml"
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/agoric/deploy.yml"
       }
     ]
   }
