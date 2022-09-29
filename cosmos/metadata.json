@@ -15,7 +15,7 @@
       {
         "title": "RPC Node",
         "description": "Deploys an RPC Node for the Cosmos Hub Network",
-        "url": "https://github.com/ovrclk/cosmos-omnibus/blob/master/cosmoshub/deploy.yml"
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/cosmoshub/deploy.yml"
       }
     ]
   }
