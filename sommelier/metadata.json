@@ -1,0 +1,22 @@
+{
+  "banner": "",
+  "title": {
+    "name": "Sommelier",
+    "description": "Automated Yield Optimization for your Crypto portfolio",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.sommelier.finance/",
+    "docs": "https://tricky-sand-5e6.notion.site/Sommelier-Documentation-006e748753e34a1299f9b1d6ae3a4544",
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/sommelier"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Sommelier Network",
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/sommelier/deploy.yml"
+      }
+    ]
+  }
+}

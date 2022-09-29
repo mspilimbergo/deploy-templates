@@ -1,0 +1,22 @@
+{
+  "banner": "",
+  "title": {
+    "name": "SifChain",
+    "description": "The Cosmos IBC’s leading Omni-Chain Dex, where you can swap, stake, and bridge between Ethereum and Cosmos with faster transactions and lower fees.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.sifchain.finance/",
+    "docs": "https://docs.sifchain.finance/",
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/sifchain"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Sifchain Network",
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/sifchain/deploy.yml"
+      }
+    ]
+  }
+}

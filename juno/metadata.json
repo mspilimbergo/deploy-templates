@@ -1,0 +1,22 @@
+{
+  "banner": "",
+  "title": {
+    "name": "Juno",
+    "description": "A decentralized, public, permission-less network for cross-chain smart contracts.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.junonetwork.io/",
+    "docs": "https://docs.junonetwork.io/juno/readme",
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/juno"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Juno Network",
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/juno/deploy.yml"
+      }
+    ]
+  }
+}

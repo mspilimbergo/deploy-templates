@@ -1,0 +1,22 @@
+{
+  "banner": "",
+  "title": {
+    "name": "Persistence",
+    "description": "Tendermint based specialized Layer-1 powering an ecosystem of DeFi dApps focused on unlocking the liquidity of staked assets.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://persistence.one/",
+    "docs": "https://blog.persistence.one/",
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/persistence"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Persistence Network",
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/persistence/deploy.yml"
+      }
+    ]
+  }
+}
