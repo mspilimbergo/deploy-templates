@@ -9,7 +9,7 @@
   "referenceLinks": {
     "webpage": "https://app.osmosis.zone/",
     "docs": "https://docs.osmosis.zone/",
-    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/juno"
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/osmosis"
   },
   "topology": {
     "topologyList": [
