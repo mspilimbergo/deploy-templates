@@ -1,0 +1,28 @@
+{
+  "version": "0.0.1", 
+  "bannerColor": "#FA5757",
+  "title": {
+    "name": "Evmos",
+    "description": "Evmos is a scalable and interoperable Ethereum blockchain, built on Proof-of-Stake with fast-finality.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://evmos.org/",
+    "docs": "https://docs.evmos.org/",
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/evmos"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Evmos blockchain",
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/evmos/deploy.yml"
+      }
+    ],
+    "social": {
+      "twitter": "https://twitter.com/EvmosOrg",
+      "discord": "https://discord.gg/evmos",
+      "telegram": "https://t.me/EvmosOrg"
+    }
+  }
+}

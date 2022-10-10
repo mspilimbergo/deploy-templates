@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "Autonomy Network",
+    "description": "AssetMantle is a multi-tenant NFT marketplace framework that enables creators and collectors to securely mint, own, and trade digital assets on its fast-finality blockchain.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://assetmantle.one/",
+    "docs": "https://docs.assetmantle.one/Quick_Setup#overview",
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/blob/master/assetmantle/deploy.yml"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Asset Mantle blockchain",
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/assetmantle/deploy.yml"
+      }
+    ]
+  }
+}

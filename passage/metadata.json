@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "Passage",
+    "description": "Platform for building and connecting virtual and physical experiences.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.passage.io/",
+    "docs": "https://www.passage.io/blog",
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/passage"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Passage blockchain",
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/passage/deploy.yml"
+      }
+    ]
+  }
+}

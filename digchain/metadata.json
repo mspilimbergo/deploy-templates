@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "title": {
+    "name": "Dig Chain",
+    "description": "Tokenized real estate on the Cosmos Network.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://digchain.org/",
+    "docs": "https://github.com/notional-labs/dig/blob/master/docs/whitepaper.md",
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/dig"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Dig Chain blockchain",
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/dig/deploy.yml"
+      }
+    ]
+  }
+}

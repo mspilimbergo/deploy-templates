@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "Autonomy Network",
+    "description": "Autonomy is a decentralized automation protocol designed for Web3 builders.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.autonomynetwork.io/",
+    "docs": "https://autonomy-network.gitbook.io/autonomy-docs/autonomy-network/readme",
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/autonomy"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Autonomy Network blockchain",
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/autonomy/deploy.yml"
+      }
+    ]
+  }
+}

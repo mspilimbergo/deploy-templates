@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "Sentinel",
+    "description": "The Sentinel ecosystem is a global network of autonomous dVPN applications that enable private and censorship resistant internet access.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://sentinel.co/",
+    "docs": "https://kb.sentinel.co/",
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/sentinel"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Sentinel blockchain",
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/sentinel/deploy.yml"
+      }
+    ]
+  }
+}

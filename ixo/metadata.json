@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "Ixo (Impact Hub)",
+    "description": "A global digital immune system for earth and humanity.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.ixo.world/",
+    "docs": "https://docs.ixo.foundation/ixo/",
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/impacthub"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Ixo (Impact Hub) blockchain",
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/impacthub/deploy.yml"
+      }
+    ]
+  }
+}

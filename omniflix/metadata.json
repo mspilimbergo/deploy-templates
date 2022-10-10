@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "Omniflix Network",
+    "description": "Interchain network for creators & communities to mint, manage & monetize media NFTs and social tokens.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://omniflix.network/",
+    "docs": "https://blog.omniflix.network/",
+    "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/omniflixhub"
+  },
+  "topology": {
+    "topologyList": [
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Omniflix Hub blockchain",
+        "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/omniflixhub/deploy.yml"
+      }
+    ]
+  }
+}
