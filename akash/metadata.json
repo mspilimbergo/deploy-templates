@@ -29,6 +29,7 @@
         "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/_examples/validator-and-public-sentries/sentries-deploy.yml"
       }
     ],
+    "selected": "RPC Node",
     "social": {
       "twitter": "https://twitter.com/akashnet_",
       "discord": "https://discord.com/invite/akash",
@@ -38,8 +39,7 @@
       "telegram": "https://t.me/AkashNW",
       "youtube": "https://www.youtube.com/akashnetwork",
       "reddit": "https://www.reddit.com/r/akashnetwork/",
-      "medium": "",
-      "discourse": "https://forum.akash.network/"
+      "medium": ""
     }
   }
 }

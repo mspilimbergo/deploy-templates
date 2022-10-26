@@ -11,6 +11,7 @@
     "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/dig"
   },
   "topology": {
+    "selected": "RPC Node",
     "topologyList": [
       {
         "title": "RPC Node",

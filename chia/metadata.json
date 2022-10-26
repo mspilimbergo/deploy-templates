@@ -12,6 +12,7 @@
     "sdlRepo": "https://github.com/ovrclk/awesome-akash/tree/master/chia-bladebit"
   },
   "topology": {
+    "selected": "Madmax",
     "topologyList": [
       {
         "title": "Bladebit",

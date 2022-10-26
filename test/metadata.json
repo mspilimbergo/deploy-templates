@@ -17,6 +17,7 @@
     "description": "Chose between different games in our Awesome Akash GitHub repository and enjoy easy deployment in just few seconds"
   },
   "topology": {
+    "selected": "",
     "topologyList": [
       {
         "id": "",
