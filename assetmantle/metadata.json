@@ -3,7 +3,7 @@
   "banner": "",
   "title": {
     "name": "Autonomy Network",
-    "description": "AssetMantle is a multi-tenant NFT marketplace framework that enables creators and collectors to securely mint, own, and trade digital assets on its fast-finality blockchain.",
+    "description": "AssetMantle is a multi-tenant NFT marketplace framework that enables creators and collectors to securely mint, own, and trade digital assets on its fast-finality blockchain. Click Deploy below to deploy an RPC node for the AssetMantle blockchain.",
     "logo": ""
   },
   "referenceLinks": {
