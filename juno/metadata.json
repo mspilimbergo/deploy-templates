@@ -3,7 +3,7 @@
   "banner": "",
   "title": {
     "name": "Juno",
-    "description": "A decentralized, public, permission-less network for cross-chain smart contracts.",
+    "description": "A decentralized, public, permission-less network for cross-chain smart contracts. Click Deploy below to deploy an RPC node for the Juno blockchain.",
     "logo": ""
   },
   "referenceLinks": {
