@@ -2,7 +2,7 @@
   "version": "0.0.1",
   "title": {
     "name": "Cosmos Hub",
-    "description": "The Cosmos Hub is the first of thousands of interconnected blockchains that will eventually comprise the Cosmos Network.",
+    "description": "The Cosmos Hub is the first of thousands of interconnected blockchains that will eventually comprise the Cosmos Network. Click Deploy below to deploy an RPC node for thee Cosmos blockchain.",
     "logo": ""
   },
   "referenceLinks": {
