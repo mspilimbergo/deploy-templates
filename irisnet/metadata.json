@@ -3,7 +3,7 @@
   "banner": "",
   "title": {
     "name": "IRISnet",
-    "description": "IRISnet (IRIS Hub) enables cross-chain interoperability through a unified service model, while providing a variety of modules to support DeFi applications.",
+    "description": "IRISnet (IRIS Hub) enables cross-chain interoperability through a unified service model, while providing a variety of modules to support DeFi applications. Click Deploy below to deploy an RPC node for the IRISNet blockchain.",
     "logo": ""
   },
   "referenceLinks": {
