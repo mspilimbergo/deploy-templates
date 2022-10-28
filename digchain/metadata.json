@@ -2,7 +2,7 @@
   "version": "0.0.1",
   "title": {
     "name": "Dig Chain",
-    "description": "Tokenized real estate on the Cosmos Network.",
+    "description": "Tokenized real estate on the Cosmos Network. Click Deploy below to deploy an RPC node for the Dig Chain blockchain.",
     "logo": ""
   },
   "referenceLinks": {
