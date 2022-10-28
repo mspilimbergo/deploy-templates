@@ -3,7 +3,7 @@
   "bannerColor": "#FA5757",
   "title": {
     "name": "Evmos",
-    "description": "Evmos is a scalable and interoperable Ethereum blockchain, built on Proof-of-Stake with fast-finality.",
+    "description": "Evmos is a scalable and interoperable Ethereum blockchain, built on Proof-of-Stake with fast-finality. Click Deploy below to deploy an RPC node for the Evmos blockchain.",
     "logo": ""
   },
   "referenceLinks": {
