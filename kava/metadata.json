@@ -1,0 +1,24 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "Kava ",
+    "description": "Kava is a decentralized blockchain that combines the speed and interoperability of Cosmos with the developer power of Ethereum.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.kava.io/",
+    "docs": "https://www.kava.io/developers#resources",
+    "sdlRepo": "https://github.com/akash-network/cosmos-omnibus/tree/master/kava"
+  },
+  "topology": {
+    "selected": "RPC Node",
+    "topologyList": [
+      {
+        "title": "RPC Node",
+        "description": "Deploys an RPC Node for the Kava Labs network",
+        "url": "https://raw.githubusercontent.com/akash-network/cosmos-omnibus/master/kava/deploy.yml"
+      }
+    ]
+  }
+}
